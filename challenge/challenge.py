@@ -21,16 +21,14 @@ import scipy.stats
 import numpy
 import types
 import tqdm
-
 import sys
 import os
 import pathlib
 
+# Import the greedy AI as the second program, your opponent
 lab_commons_path = os.path.join(pathlib.Path(__file__).parent.resolve(), '../')
 if lab_commons_path not in sys.path:
     sys.path.append(lab_commons_path) 
-
-# Import the greedy AI as the second program, your opponent
 import lab_commons.AI.greedy as program_2
 
 # Import Your AI as the first program
@@ -97,6 +95,9 @@ def run_one_game ( seed:      int,
               "cell_percentage": CELL_PERCENTAGE,
               "wall_percentage":WALL_PERCENTAGE,
               "nb_cheese": NB_CHEESE,
+              "game_mode" : "sequential",
+              "preprocessing_time" : 0.0,
+              "turn_time" : 0.0,
               "render_mode": "no_rendering",
               "random_seed": seed}
 

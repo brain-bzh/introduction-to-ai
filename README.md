@@ -1,7 +1,7 @@
 # introduction-to-ai
 Repository for the course "Introduction to Artificial Intelligence" at IMT Atlantique. It contains the slides of all courses.
 
-[You may find here the link for the Labs](https://mee-labs.gitlab-pages.imt-atlantique.fr/intro2ai/)
+Lab sessions are on [this page](https://mee-labs.gitlab-pages.imt-atlantique.fr/intro2ai/)
 
 The communication for the course happens on Discord!
 
@@ -15,15 +15,14 @@ We encourage students to get creative and test combinations of the various ideas
 
 ## Evaluation in this course
 
-First, have a look at the [evaluation sheet](evaluation.pdf).
-
 There are **short written evaluations** during the first 10 minutes of **each** session starting from session 2. Don't be late!  
 
 You will present **short presentations** (7 minutes of presentation + 3 minutes of questions) on **sessions 2, 3 and 4.**
 
 **For the final session**, we ask you to prepare a **15 minutes presentation**, that will be followed by 5 minutes of question. 
 
-What we expect for the presentations: 
+## What we expect for the presentations:
+
 1. Explain your motivations. We will judge whether you understood the goal, and whether the proposed implementation follows a rigourous approach.  
 2. The clarity of your exposition and quality of your support (slides)
 

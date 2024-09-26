@@ -3,6 +3,8 @@ Repository for the course "Introduction to Artificial Intelligence" at IMT Atlan
 
 [You may find here the link for the Labs](https://mee-labs.gitlab-pages.imt-atlantique.fr/intro2ai/)
 
+The communication for the course happens on Discord!
+
 ## What is expected for the Final Project
 
 Short version: **Exploration of different AI approaches to your task (different according to your modality).**

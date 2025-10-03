@@ -17,7 +17,9 @@ We encourage students to get creative and test combinations of the various ideas
 
 There are **short written evaluations** during the first 10 minutes of **each** session starting from session 2. Don't be late!  
 
-You will present **short presentations** (7 minutes of presentation + 3 minutes of questions) on **sessions 2, 3 and 4.**
+Half of you will present **short presentations** (7 minutes of presentation + 3 minutes of questions) on **sessions 3 and 4.**
+
+You will have to pass an exam (individually) concerning **sessions 1,2,3,4**. The exam will take place after the holidays, on Friday, the 7th. The exam will be on paper and you won't have the right to use your laptop (or any electronic device). You are authorized to prepare two **manuscript** A4 pages (recto and verso) for the exam.
 
 **For the final session**, we ask you to prepare a **15 minutes presentation**, that will be followed by 5 minutes of question. 
 

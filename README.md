@@ -16,17 +16,16 @@ The course alternates lessons and lab sessions, with the **main project running 
 | Session | Date | Content |
 | :--- | :--- | :--- |
 | **1** | Sep 25 | Course 1 — Generalities; Lab 1 (Python, venv, numpy, data manipulation); project-definition |
-| **2** | Oct 2 | **Project validation** presentations |
+| **2 (graded)** | Oct 2 | **Project validation** presentations |
 | **3** | Oct 9 | Course and Lab 2 — Supervised Learning |
 | **4** | Oct 16 | Course and Lab 3 — Unsupervised Learning |
 | **5** | Oct 23 | Course and Lab 4 — Deep Learning; project milestone  |
 | — | — | **Holiday break** |
-| **Exam** | Nov 6 | Written exam on courses 1–4 (Generalities, Supervised, Unsupervised, Deep Learning) |
+| **Exam (graded)** | Nov 6 | Written exam on courses 1–4 (Generalities, Supervised, Unsupervised, Deep Learning) |
 | **6** | Nov 6 | Course and Lab 5 — Foundation Models |
-| **7** | Nov 13 | Course 6 — Adaptation |
-| **8** | Nov 13 | Debate on societal impacts of AI |
-| **9** | Nov 20, 27, Dec 4 | Project-dedicated sessions |
-| **10** | Dec 11 | **Final presentations** |
+| **7** | Nov 13 | Present and Future of AI -- Debate on societal impacts of AI |
+| **8/9/10** | Nov 20, 27, Dec 4 | Project-dedicated sessions |
+| **11 (graded)** | Dec 11 | **Final presentations** |
 
 ## Teams (binômes)
 

@@ -23,7 +23,7 @@ The course alternates lessons and lab sessions, with the **main project running 
 | — | — | **Holiday break** |
 | **Exam (graded)** | Nov 6 | Written exam on courses 1–4 (Generalities, Supervised, Unsupervised, Deep Learning) |
 | **6** | Nov 6 | Course and Lab 5 — Foundation Models |
-| **7** | Nov 13 | Present and Future of AI -- Debate on societal impacts of AI |
+| **7** | Nov 13 | Present and Future of AI — Debate on societal impacts of AI |
 | **8/9/10** | Nov 20, 27, Dec 4 | Project-dedicated sessions |
 | **11 (graded)** | Dec 11 | **Final presentations** |
 

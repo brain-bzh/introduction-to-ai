@@ -29,9 +29,9 @@ The course alternates lessons and lab sessions, with the **main project running 
 
 ## Teams (binômes)
 
-The project is carried out in **binômes** (pairs). Binômes are split into **4 groups of at most 7 teams each**. Your group is the audience for your presentations (validation and final), and project topics must be unique within a group.
+The project is carried out in **binômes** (pairs). Binômes are split into **3 groups of at most 8 teams each**. Your group is the audience for your presentations (validation and final), and project topics must be unique within a group.
 
-If a group has an odd number of students, **trinômes** (three students) and **monômes** (a single student) are accepted, within the same limit of **7 teams per group**.
+If a group has an odd number of students, **trinômes** (three students) and **monômes** (a single student) are accepted, within the same limit of **8 teams per group**.
 
 **On Discord:** each binôme has its **own dedicated channel**. As soon as your binôme is formed, chose a channel (numbered), and write **the full names of both members** in that channel.
 
